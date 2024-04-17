@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GOL": {
+      "commandName": "Project",
+      "commandLineArgs": "80 100"
+    }
+  }
+}
